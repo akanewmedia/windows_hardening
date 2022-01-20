@@ -1,0 +1,65 @@
+[*] 2022-01-18 8:37:32 PM - Starting HardeningKitty
+[*] 2022-01-18 8:37:32 PM - Getting machine information
+[*] Hostname: capablanca
+[*] Domain: LOCAL
+[*] Domain role: StandaloneServer
+[*] Install date: 01/14/2022 13:48:35
+[*] Last Boot Time: 01/18/2022 10:40:53
+[*] Uptime: 09:56:38.7996218
+[*] Windows: Windows Server 2019 Standard Evaluation
+[*] Windows edition: ServerStandardEval
+[*] Windows version: 1809
+[*] Windows build: 17763.1.amd64fre.rs5_release.180914-1434
+[*] System-locale: en-CA
+[*] Powershell Version: 5.1
+[*] 2022-01-18 8:37:38 PM - Language warning
+[?] 2022-01-18 8:37:38 PM - HardeningKitty was developed for the system language 'en-US'. This system uses 'en-CA' Language-dependent analyses can sometimes produce false results. Please create an issue if this occurs.
+[*] 2022-01-18 8:37:38 PM - Getting user information
+[*] Username: CAPABLANCA\Administrator
+[*] Is Admin: True
+[*] 2022-01-18 8:37:39 PM - Starting Category Account Policies
+[*] 2022-01-18 8:37:42 PM - Starting Category User Rights Assignment
+[*] 2022-01-18 8:39:12 PM - Starting Category Security Options
+[*] 2022-01-18 8:39:24 PM - Starting Category Windows Firewall
+[*] 2022-01-18 8:39:25 PM - Starting Category Advanced Audit Policy Configuration
+[*] 2022-01-18 8:39:30 PM - Starting Category Administrative Templates: Control Panel
+[*] 2022-01-18 8:39:30 PM - Starting Category Administrative Templates: LAPS
+[*] 2022-01-18 8:39:30 PM - Starting Category MS Security Guide
+[*] 2022-01-18 8:39:30 PM - Starting Category MSS (Legacy)
+[*] 2022-01-18 8:39:31 PM - Starting Category Administrative Templates: Network
+[*] 2022-01-18 8:39:31 PM - Starting Category Administrative Templates: Start Menu and Taskbar
+[*] 2022-01-18 8:39:31 PM - Starting Category Administrative Templates: System
+[*] 2022-01-18 8:39:32 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:39:32 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:39:32 PM - Starting Category Microsoft Defender Exploit Guard
+[*] 2022-01-18 8:39:33 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:39:33 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:39:33 PM - Starting Category PowerShell
+[*] 2022-01-18 8:39:33 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:39:34 PM - Starting Category Category
+[*] 2022-01-18 8:39:34 PM - Starting Category Account Policies
+[*] 2022-01-18 8:39:41 PM - Starting Category User Rights Assignment
+[*] 2022-01-18 8:40:46 PM - Starting Category Security Options
+[*] 2022-01-18 8:40:55 PM - Starting Category Windows Firewall
+[*] 2022-01-18 8:40:55 PM - Starting Category Advanced Audit Policy Configuration
+[*] 2022-01-18 8:41:18 PM - Starting Category Administrative Templates: Control Panel
+[*] 2022-01-18 8:41:18 PM - Starting Category Administrative Templates: LAPS
+[*] 2022-01-18 8:41:18 PM - Starting Category MS Security Guide
+[*] 2022-01-18 8:41:18 PM - Starting Category MSS (Legacy)
+[*] 2022-01-18 8:41:18 PM - Starting Category Administrative Templates: Network
+[*] 2022-01-18 8:41:19 PM - Starting Category Administrative Templates: Start Menu and Taskbar
+[*] 2022-01-18 8:41:19 PM - Starting Category Administrative Templates: System
+[*] 2022-01-18 8:41:20 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:41:20 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:41:20 PM - Starting Category Microsoft Defender Exploit Guard
+[*] 2022-01-18 8:41:20 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:41:20 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:41:21 PM - Starting Category PowerShell
+[*] 2022-01-18 8:41:21 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:41:21 PM - Starting Category Category
+[*] 2022-01-18 8:41:21 PM - Starting Category Account Policies
+[*] 2022-01-18 8:41:34 PM - Starting Category User Rights Assignment
+[*] 2022-01-18 8:45:03 PM - Starting Category Security Options
+[*] 2022-01-18 8:45:06 PM - Starting Category Windows Firewall
+[*] 2022-01-18 8:45:06 PM - Starting Category Advanced Audit Policy Configuration
+[*] 2022-01-18 8:49:17 PM - Starting Category Administrative Templates: Control Panel

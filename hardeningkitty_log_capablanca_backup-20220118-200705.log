@@ -1,0 +1,41 @@
+[*] 2022-01-18 8:07:06 PM - Starting HardeningKitty
+[*] 2022-01-18 8:07:06 PM - Getting machine information
+[*] Hostname: capablanca
+[*] Domain: LOCAL
+[*] Domain role: StandaloneServer
+[*] Install date: 01/14/2022 13:48:35
+[*] Last Boot Time: 01/18/2022 10:39:43
+[*] Uptime: 09:27:22.8223490
+[*] Windows: Windows Server 2019 Standard Evaluation
+[*] Windows edition: ServerStandardEval
+[*] Windows version: 1809
+[*] Windows build: 17763.1.amd64fre.rs5_release.180914-1434
+[*] System-locale: en-CA
+[*] Powershell Version: 5.1
+[*] 2022-01-18 8:07:12 PM - Language warning
+[?] 2022-01-18 8:07:12 PM - HardeningKitty was developed for the system language 'en-US'. This system uses 'en-CA' Language-dependent analyses can sometimes produce false results. Please create an issue if this occurs.
+[*] 2022-01-18 8:07:12 PM - Getting user information
+[*] Username: CAPABLANCA\Administrator
+[*] Is Admin: True
+[*] 2022-01-18 8:07:12 PM - Starting Category Account Policies
+[*] 2022-01-18 8:07:30 PM - Starting Category User Rights Assignment
+[*] 2022-01-18 8:10:29 PM - Starting Category Security Options
+[*] 2022-01-18 8:10:37 PM - Starting Category Windows Firewall
+[*] 2022-01-18 8:10:38 PM - Starting Category Advanced Audit Policy Configuration
+[*] 2022-01-18 8:10:49 PM - Starting Category Administrative Templates: Control Panel
+[*] 2022-01-18 8:10:49 PM - Starting Category Administrative Templates: LAPS
+[*] 2022-01-18 8:10:49 PM - Starting Category MS Security Guide
+[*] 2022-01-18 8:10:49 PM - Starting Category MSS (Legacy)
+[*] 2022-01-18 8:10:49 PM - Starting Category Administrative Templates: Network
+[*] 2022-01-18 8:10:50 PM - Starting Category Administrative Templates: Start Menu and Taskbar
+[*] 2022-01-18 8:10:50 PM - Starting Category Administrative Templates: System
+[*] 2022-01-18 8:10:51 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:10:51 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:10:51 PM - Starting Category Microsoft Defender Exploit Guard
+[*] 2022-01-18 8:10:53 PM - Starting Category Microsoft Defender Antivirus
+[*] 2022-01-18 8:10:53 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:10:54 PM - Starting Category PowerShell
+[*] 2022-01-18 8:10:54 PM - Starting Category Administrative Templates: Windows Components
+[*] 2022-01-18 8:10:54 PM - Starting Category Category
+[*] 2022-01-18 8:10:54 PM - Starting Category Account Policies
+[*] 2022-01-18 8:11:04 PM - Starting Category User Rights Assignment
